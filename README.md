@@ -1,7 +1,7 @@
 [![Build Status](https://travis-ci.org/OCA/stock-logistics-tracking.svg?branch=master)](https://travis-ci.org/OCA/stock-logistics-tracking)
 [![Coverage Status](https://img.shields.io/coveralls/OCA/stock-logistics-tracking.svg)](https://coveralls.io/r/OCA/stock-logistics-tracking?branch=master)
 
-Odoo Stock Logistic Tracking
+Odoo Stock Logistic Tracking [http://www.www888.org](http://www.www888.org)
 ============================
 
 This project aims to deal with modules related to the management of product tracking. You'll find modules that:
